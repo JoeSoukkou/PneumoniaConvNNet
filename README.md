@@ -12,4 +12,4 @@ Model was obtained after 8 epochs of training
 using the built-in nn.MSELoss, a value of 0.0076 was obained
 
 
-#Please feel free to tweak this project's params and try to get a better accuracy without over-fitting
+# Please feel free to tweak this project's params and try to get a better accuracy without over-fitting
